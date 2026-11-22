@@ -28,6 +28,24 @@ Rates can change with 30 days' notice. Timelines are typically 2–16 weeks and 
 
 > You are responsible for the ownership warranty. Read the full terms before submitting.
 
+## 👥 Who this is for
+- Developers with private side projects or abandoned startups
+- Startups and companies with old internal tools or legacy services they own
+- Software agencies with in-house code they own (not client-owned deliverables)
+
+## ❓ FAQ
+**Do I lose ownership?** No. Licenses are non-exclusive; you keep using, modifying and shipping your code.
+
+**Can the same repo be licensed more than once?** Yes, and you are paid each time.
+
+**When am I paid?** Only after a buyer licenses the code; typically 2–16 weeks.
+
+**What about secrets/PII?** They are stripped from the review copy before anything is shared.
+
+**Is income guaranteed?** No. Rates are indicative and depend on buyer demand.
+
+More questions: [Discussions FAQ](https://github.com/PedroGajic/license-your-private-code/discussions/1)
+
 ## Get started
 - 🏢 **Agencies:** https://pangea.ai/code-licensing/agency?id=1340
 - 👤 **Companies / Individuals:** https://pangea.ai/code-licensing/companies?id=1340
