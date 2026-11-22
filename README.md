@@ -54,3 +54,8 @@ More questions: [Discussions FAQ](https://github.com/PedroGajic/license-your-pri
 
 ---
 ⭐ Star this repo if it was useful, and share it with a developer who has old code sitting idle.
+
+
+## Also available as
+
+📄 [Google Doc version of this guide](https://docs.google.com/document/d/e/2PACX-1vQ3hXoZ5wNdbih_RhksNNqD5GJS-sDap1f17mtuWm8TSgGKcxR2MPqDBu6sxEQwgZYwj84Ilb_F4J0o/pub) · 🌐 [Website](https://sites.google.com/view/license-your-private-code) · 🏢 [Guide for agencies (gist)](https://gist.github.com/PedroGajic/16df62acd9a128d55282fa7f4c54973c)
