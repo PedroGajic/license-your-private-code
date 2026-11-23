@@ -21,10 +21,14 @@ Rates can change with 30 days' notice. Timelines are typically 2–16 weeks and 
 - Code **you own** or have the right to license
 - Private repos, internal tools, abandoned startups, side projects
 
+> **2025+ code:** repos started in 2025 or later are flagged "low likelihood" (labs no longer accept AI-written code) until you explain how they were built. It's not an automatic rejection, but pre-2025 code with full git history is the strongest fit.
+
 ## ❌ What does not qualify
-- Code that was ever **public**, forks, or client-owned code
+- Code that was ever **public** (including an old Internet Archive capture or a published npm/PyPI package), forks, or client-owned code (unless you have the client's written permission)
 - Code with confidential data or conflicting third-party rights
 - Generated files, vendored/third-party code, binaries, data dumps (don't count toward value)
+- WordPress sites, themes and plugins
+- AI-written code
 
 > You are responsible for the ownership warranty. Read the full terms before submitting.
 
