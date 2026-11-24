@@ -63,3 +63,9 @@ More questions: [Discussions FAQ](https://github.com/PedroGajic/license-your-pri
 ## Also available as
 
 📄 [Google Doc version of this guide](https://docs.google.com/document/d/e/2PACX-1vQ3hXoZ5wNdbih_RhksNNqD5GJS-sDap1f17mtuWm8TSgGKcxR2MPqDBu6sxEQwgZYwj84Ilb_F4J0o/pub) · 🌐 [Website](https://sites.google.com/view/license-your-private-code) · 🏢 [Guide for agencies (gist)](https://gist.github.com/PedroGajic/16df62acd9a128d55282fa7f4c54973c)
+
+
+## 📚 Further reading
+
+- [What AI labs pay for private code in 2026 – and a 30-minute pre-flight before you submit a repo](https://dev.to/predraggajic/what-ai-labs-pay-for-private-code-in-2026-and-a-30-minute-pre-flight-before-you-submit-a-repo-3l7h) (ownership and employment-IP checks, never-public check, git-history commands, secrets scan)
+- [Before you license your old code to AI labs: an honest checklist for developers and agencies](https://pedrogajic.hashnode.dev/before-you-license-your-old-code-to-ai-labs-an-honest-checklist-for-developers-and-agencies)
