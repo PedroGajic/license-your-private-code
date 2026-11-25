@@ -6,22 +6,18 @@ Have old **private repositories, internal tools or unreleased side projects** co
 1. Connect your Git account and get a free per-repo estimate.
 2. Approve which repositories you want to offer.
 3. Secrets and personal data are stripped from the review copy before anything is shared.
-4. You get paid when a buyer licenses your code (payout within ~15 days of the buyer's payment).
+4. You get paid when a buyer licenses your code. In Pangea's words: "Once the buyer's payment is received, you are paid within 15 days to your nominated payout account."
 
-## Indicative rates (from the program page, not guaranteed)
-| What | Rate |
-|---|---|
-| Source code | ~$100 per million tokens |
-| Git history | ~$40 per million tokens |
-| Typical illustrative range | ~$1,000–$1,500 per repo (not a quote) |
+## How earnings work (not guaranteed)
+You earn based on how much eligible code you submit – the more you submit, the more you can earn. Earnings depend on buyer demand and aren't guaranteed – see [Pangea's page](https://pangea.ai/code-licensing/companies) for details.
 
-Rates can change with 30 days' notice. Timelines are typically 2–16 weeks and depend on buyer demand.
+Pangea: "licensing is subject to demand rather than guaranteed, but normally between 2 and 16 weeks."
 
 ## ✅ What qualifies
 - Code **you own** or have the right to license
 - Private repos, internal tools, abandoned startups, side projects
 
-> **2025+ code:** repos started in 2025 or later are flagged "low likelihood" (labs no longer accept AI-written code) until you explain how they were built. It's not an automatic rejection, but pre-2025 code with full git history is the strongest fit.
+> **My tip (not a Pangea rule):** older, pre-AI-assistant code with full git history is likely the strongest fit; newer repos may get extra questions about how they were built.
 
 ## ❌ What does not qualify
 - Code that was ever **public** (including an old Internet Archive capture or a published npm/PyPI package), forks, or client-owned code (unless you have the client's written permission)
