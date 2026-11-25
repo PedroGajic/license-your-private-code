@@ -69,3 +69,6 @@ More questions: [Discussions FAQ](https://github.com/PedroGajic/license-your-pri
 
 - [What AI labs pay for private code in 2026 – and a 30-minute pre-flight before you submit a repo](https://dev.to/predraggajic/what-ai-labs-pay-for-private-code-in-2026-and-a-30-minute-pre-flight-before-you-submit-a-repo-3l7h) (ownership and employment-IP checks, never-public check, git-history commands, secrets scan)
 - [Before you license your old code to AI labs: an honest checklist for developers and agencies](https://pedrogajic.hashnode.dev/before-you-license-your-old-code-to-ai-labs-an-honest-checklist-for-developers-and-agencies)
+- [Agency owners: which of your in-house code can be licensed to AI labs (and which client code can't)](https://dev.to/predraggajic/agency-owners-which-of-your-in-house-code-can-be-licensed-to-ai-labs-and-which-client-code-cant-iob)
+- [Your startup shut down. Your private codebase can still be licensed to AI labs.](https://medium.com/@pedro.gajic/your-startup-shut-down-your-private-codebase-can-still-be-licensed-to-ai-labs-10e224b44337)
+- [Freelancers and AI code licensing: which of your repos actually qualify](https://pedrogajic.hashnode.dev/freelancers-and-ai-code-licensing-which-of-your-repos-actually-qualify-most-client-work-doesn-t)
