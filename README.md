@@ -20,7 +20,7 @@ Pangea: "licensing is subject to demand rather than guaranteed, but normally bet
 > **My tip (not a Pangea rule):** older, pre-AI-assistant code with full git history is likely the strongest fit; newer repos may get extra questions about how they were built.
 
 ## ❌ What does not qualify
-- Code that was ever **public** (including an old Internet Archive capture or a published npm/PyPI package), forks, or client-owned code (unless you have the client's written permission)
+- Code that was ever **public** (including an old Internet Archive capture or a published npm/PyPI package), forks, or client-owned code (Pangea: "Do not submit client-owned, previously public or forked code")
 - Code with confidential data or conflicting third-party rights
 - Generated files, vendored/third-party code, binaries, data dumps (don't count toward value)
 - WordPress sites, themes and plugins
